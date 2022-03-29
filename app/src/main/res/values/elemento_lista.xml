@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paises_copa">
+        <item>Alemanha</item>
+        <item>Argentina</item>
+        <item>Holanda</item>
+        <item>Colombia</item>
+        <item>Belgica</item>
+        <item>Uruguai</item>
+        <item>Brasil</item>
+    </string-array>
+    <string-array name="opcoes_estudo">
+        <item>direto de arquivo xml</item>
+        <item>elementos em um ArrayAdapter</item>
+        <item>Uso de um ListActivity</item>
+        <item>Searchable Spinner</item>
+    </string-array>
+</resources>
